@@ -1,0 +1,81 @@
+
+*{
+    background-color: rgb(181, 221, 221);
+}
+
+
+body{
+    color: rebeccapurple;
+}
+
+.row{
+    display: flex;
+}
+
+
+
+.CodingLab img{
+    width: 12%;
+    padding: 0px 10px;
+    margin: 0px 0px -2px;
+    background-color: white;
+}
+
+.heading{
+    width: 530px;
+    padding: 0px 100px;
+}
+
+.CodingLab p{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+    padding: 6px;
+    color: #382b2b;
+    background-color: white;
+}
+
+.CodingLab{
+    background: white;
+    margin: 0px 2px;
+    padding: 10px 27px 25px;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0px opx 6px #0502021c;
+}
+
+.CodingLab h3{
+    font-size: 18px;
+    padding: 0px 0px 16px;
+    background-color: white;
+}
+
+section{
+    padding: 30px 0px;
+}
+
+
+.CodingLab p:hover{
+    background-color: grey;
+    padding: 12px 0px;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+
+.heading h1{
+    font-size: 70px;
+    padding: 0px 0px 0px 70px;
+    font-style: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+
+
+
+span{
+    color: black;
+}
+
